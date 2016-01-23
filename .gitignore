@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+
+# IDE directory
+.idea/
+
+# Meteor directories
+.meteor
